@@ -1,0 +1,107 @@
+@media (max-width:1024px){
+    .jon-header .navbar-brand {
+        font-size: 17px;
+    }
+    .jon-header span {
+        height: 34px;
+        width: 34px;
+        font-size: 22px;
+    }
+    .ml-5 {
+        margin-left: 5px!important;
+    }
+    .jon-menu .nav-link {
+        padding-left: 8px !important;
+        padding-right: 8px !important;
+        font-size: 15px;
+    }
+    .btn-group-lg>.btn, .btn-lg {
+        padding: 6px 12px;
+        font-size: 12px;
+    }
+    .slider-section {
+        padding: 522px 0 0px 0px;
+    }
+    .slider-caption{
+        margin-top: -434px;
+    }
+    .slider-caption h4{
+        font-size: 20px;
+    }
+    .slider-caption h2{
+        font-size: 36px;
+    }
+    .slider-caption h4 {
+        margin-bottom: 14px;
+    }
+    .slider-caption h2 {
+        margin-bottom: 16px;
+        font-size: 35px;
+    }
+    .slider-caption .btn {
+        font-size: 14px;
+        padding: 16px 20px;
+    }
+    .form-control-lg {
+        font-size: 11px;
+    }
+    .about-text-left {
+        margin-top: 0;
+    }
+    .about-text-left h1 {
+        font-size: 25px;
+    }
+    .about-text-left .lead {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:768px){
+    .navbar-brand {
+        
+    }
+    .navbar-expand-sm {
+        flex-wrap: wrap;
+    }
+    .navbar-brand {
+        margin-bottom: 5px;
+    }
+    .slider-section {
+        padding: 359px 0 0px 0px;
+    }
+    .slider-caption {
+        margin-top: -336px;
+    }
+    .slider-caption {
+        width: 80% !important;
+    }
+    .form-control-lg {
+        margin-bottom: 8px;
+    }
+    .about-text-left .lead {
+        line-height: 26px;
+    }
+    .pricing-item {
+        margin-bottom: 10px;
+    }
+}
+@media (max-width:425px){
+    .slider-caption {
+        width: 95% !important;
+        padding-right: inherit;
+    }
+    .slider-caption h4 {
+        font-size: 14px;
+    }
+    .slider-caption h2 {
+        margin-bottom: 16px;
+        font-size: 23px;
+    }
+    .feature-section{
+        padding-top: 10px!important;
+        padding-bottom: 0!important;
+    }
+    section.portfolio-section h1 {
+        font-size: 16px;
+    }
+}
